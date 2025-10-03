@@ -1,0 +1,10 @@
+# requirements.txt
+opencv-python
+torch
+numpy
+Pillow
+ultralytics
+git+https://github.com/facebookresearch/segment-anything.git
+pathfinding
+easyocr
++ pycuda
